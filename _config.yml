@@ -1,42 +1,44 @@
-# Site wide configuration
-
-title: "The Pacific Current"
-description: "Coming soon to a podcast near you"
-#if you modify locale please have a look at _data/messages.yml too
-locale: en
-#for meta name="author" :
+# You have to configure this ###################################################
+title: The Pacific Current
+# You should configure this ####################################################
+url: http://localhost:4000
+download_url: "http://localhost:4000/episodes"
+subtitle: Local Island People doing Island Kine Tings
+description: |
+  A podcast featuring interviews with the future and current leaders of Hawaii
+  and how they are shaping the future we will soon call home. A mix of the creative,
+  cultural, and business-minded people of the islands. For the people, by the people.
 author: The Pacific Current
+author_url: "http://localhost:4000/" # This is the URL of a site owned by the author (s. https://jsonfeed.org/version/1)
+email: info@thepacificcurrent.com
+keywords: [Hawaii, Business, Entrepreneurship, Island, Local, Culture, Polynesia, Pacific, Current]
+itunes_categories: [Business]
 
-#Target date in UTC / GMT
-countdown:
-  theme: red
-  year: 2018
-  month: 3
-  day: 1
-  hour: 0
-  minute: 0
+episodes_per_feed_page: 100
+# Date can be localized via date_de.rb plugin
+date_format: "ordinal"
 
-# Site owner
-owner:
-  name: Andrew Taeoalii
-  email: info@thepacificcurrent.com
-  twitter: "@pacificcurrent"
-  google-plus:
-  instagram: "@thepacificcurrent"
-  #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
-  aboutlink:
-    url: https://thepacificcurrent.com
-    caption: The Pacific Current
+# You can configure this #######################################################
+twitter_nick: pacificcurrent
+language: en
+explicit: 'no'  # 'yes'/'no'/clean
+license: CC BY 4.0
+## Flattr ######################################################################
+flattr_uid: # Flattr will not be used unless this is set
+flattr_button: compact # compact | default
+flattr_mode: auto # auto | manual(default)
+flattr_popout:  1 # 1 | 0 (show popout when hovering mouse over button)
+flattr_language: en_GB # available languages - https://api.flattr.com/rest/v2/languages.txt
+flattr_category: audio # available categories - https://api.flattr.com/rest/v2/categories.txt
+## Disqus comments #############################################################
+disqus_shortname: # Disqus will not be used unless this is set
+disqus_developer: 0 # 1 / 0
+## Itunes link ###########################################################
+itunes_url: "https://itunes.apple.com/at/podcast/myname/id#myid#"
+## Isso comments #########################################################
+use_isso: no # set to 'yes' to include isso comments form
 
+plugins:
+  - jekyll-octopod
 
-# Jekyll configuration
-sass:
-  sass_dir: _sass
-  style: compressed
-permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
-highlighter: rouge
-
-
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+theme: jekyll-bootflat 

@@ -1,8 +1,14 @@
 ---
-layout: home
-permalink: /
-title: "The Pacific Current"
-excerpt: "A Podcast dedicated to the continuous flow between the pacific islands"
+title: Episodes
+layout: default
+navigation: 0
 ---
-# Website is coming soon
-This site is not active yet. The first episode of The Pacific Current podcast will be released on March 1, 2018.
+{% assign post = site.posts.first %}
+{% include post.html %}
+
+{% assign current_post = site.posts.first %}
+{% for post in site.posts -%}
+  {% unless post.url == current_post.url -%}
+    {% include post_line.html %}
+  {% endunless %}
+{% endfor %}
