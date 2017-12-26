@@ -12,6 +12,18 @@
    "url": "http://localhost:4000/"
  },
  "items": [
+   {"id": "e6549aff",
+    "title": "The Art of the Side Hustle",
+    "summary": "",
+    "content_text": "Shownotes and Links  Ohana Car Detailing  Kamuela Unga, owner and operator of Ohana Car Detailing talks about what it’s like to start his own family business. From inception to operation, how he was able to startup a small side business to help his children learn the value of work.",
+    "content_html": "<script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"http://localhost:4000/episodes/episode1-KamuUnga.mp3\"},\"coverUrl\":\"http://localhost:4000/img/logo-360x360.png\",\"title\":\"The Art of the Side Hustle\",\"subtitle\":\"Kamuela Unga - Ohana Car Detailing\",\"url\":\"http://localhost:4000/2017/12/25/the-art-of-the-side-hustle.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:30.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"shownotes-and-links\">Shownotes and Links</h2><ul>  <li><a href=\"https://instagram.com/ohanacardetailing\">Ohana Car Detailing</a></li>  <li>Kamuela Unga, owner and operator of Ohana Car Detailing talks about what it’s like to start his own family business. From inception to operation, how he was able to startup a small side business to help his children learn the value of work.</li></ul>",
+    "url": "http://localhost:4000/2017/12/25/the-art-of-the-side-hustle.html",
+    "date_published": "2017-12-25T00:00:00-10:00",
+    "date_modified": "2017-12-25T00:00:00-10:00",
+    "author": {
+      "name": "The Pacific Current"
+    }
+  },
    {"id": "400f173e",
     "title": "Episode 0",
     "summary": "",

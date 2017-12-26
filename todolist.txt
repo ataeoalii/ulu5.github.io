@@ -1,0 +1,5 @@
+- cleanup theme to make it look prettier
+- incorporate logo
+- create a slogan and description of the podcast
+- add instagram/facebook/twitter links
+- create contact us page which sends an email to info@thepacificcurrent.com

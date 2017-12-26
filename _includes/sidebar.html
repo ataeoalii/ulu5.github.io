@@ -48,20 +48,17 @@
 
 <ol type="i">
   {% for feed in site['episode_feed_formats'] %}
-    <li><a href="{{ site['url']}}/episodes.{{ feed }}.rss"><i class="fa fa-rss"></i> {{ feed }}-RSS-Feed</a></li>
+    <li><a href="{{ site['url']}}/episodes.{{ feed }}.rss"><i class="fa fa-rss"></i> RSS Feed</a></li>
   {% endfor %}
 </ol>
 <ol type="i">
   {% for jsonfeed in site['json_feed_formats'] %}
-    <li><a href="{{ site['url']}}/feed.{{ jsonfeed }}.json"><i class="fa fa-rss-square"></i> {{ jsonfeed }}-JSON-Feed</a></li>
+    <li><a href="{{ site['url']}}/feed.{{ jsonfeed }}.json"><i class="fa fa-rss-square"></i>JSON Feed</a></li>
   {% endfor %}
 </ol>
 <ol type="i">
   {% if site.itunes_url %}
     <li>in Apple-<a href="{{ site.itunes_url }}"><i class="fa fa-apple"></i> Itunes</a></li>
-  {% endif %}
-  {% if site.bitlove_url %}
-    <li>as Torrents at <a href="{{ site.bitlove_url }}"><img src="https://bitlove.org/static/favicon.png"/> Bitlove</a></li>
   {% endif %}
   {% if site.fyyd_url %}
     <li>at the podcast search engine <a href="{{ site.fyyd_url }}">Fyyd</a></li>
@@ -73,6 +70,21 @@
 
 <hr/>
 
-{% if site.twitter_nick %}
-  <a href="https://twitter.com/{{ site.twitter_nick }}" class="twitter-follow-button" data-show-count="false">Follow @{{ site.twitter_nick }}</a>
+{% if site.twitter_username %}
+  <a href="https://twitter.com/{{ site.twitter_username }}" data-show-count="false"><i class="fa fa-twitter"></i></a>
 {% endif %}
+{% if site.facebook_username %}
+    <a href="https://www.facebook.com/{{ site.facebook_username }}">
+      <i class="fa fa-facebook"></i></a>
+{% endif %}
+{% if site.instagram_username %}
+    <a href="https://www.instagram.com/{{ site.facebook_username }}">
+      <i class="fa fa-instagram"></i>
+    </a>
+{% endif %}
+
+
+
+
+
+

@@ -5,15 +5,4 @@ permalink: /about/
 navigation: 2
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+The Pacific Current is a group of millenial podcasters located on Oahu, Hawaii who have a passion for telling the story of our islands through the modern lens of local people. We focus on creative, cultural and business minds in the community today who are shaping the future of those in the pacific. From entrepreneurs, fashion designers, entertainers, farmers, educators, and philanthropists, we interview people who are molding what the future will look like. The common thread of this vast pacific ocean are what tie these individuals together and their constant striving to push the boundaries of today for a better tomorrow while also learning from those who came before. We hope you enjoy the podcast. Please email us at info@thepacificcurrent.com for any comments, questions or suggestions. We'd love to hear from you.

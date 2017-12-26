@@ -21,7 +21,7 @@
 and how they are shaping the future we will soon call home. A mix of the creative,
 cultural, and business-minded people of the islands. For the people, by the people.
 </description>
-    <lastBuildDate>Mon, 25 Dec 2017 22:25:30 -1000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2017 00:10:53 -1000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.3</generator>
 
@@ -49,6 +49,59 @@ cultural, and business-minded people of the islands. For the people, by the peop
     <itunes:category text="Business" />
     
     
+    
+      
+        
+        
+          <item>
+            <title>The Art of the Side Hustle - Kamuela Unga - Ohana Car Detailing</title>
+            <link>http://localhost:4000/2017/12/25/the-art-of-the-side-hustle.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/the-art-of-the-side-hustle"/>
+            <comments>http://localhost:4000/2017/12/25/the-art-of-the-side-hustle.html#disqus_thread</comments>
+            <pubDate>Mon, 25 Dec 2017 00:00:00 -1000</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4000/2017/12/25/the-art-of-the-side-hustle.html</guid>
+            <description><![CDATA[
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://instagram.com/ohanacardetailing">Ohana Car Detailing</a></li>
+  <li>Kamuela Unga, owner and operator of Ohana Car Detailing talks about what it’s like to start his own family business. From inception to operation, how he was able to startup a small side business to help his children learn the value of work.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://instagram.com/ohanacardetailing">Ohana Car Detailing</a></li>
+  <li>Kamuela Unga, owner and operator of Ohana Car Detailing talks about what it’s like to start his own family business. From inception to operation, how he was able to startup a small side business to help his children learn the value of work.</li>
+</ul>
+]]></content:encoded>
+            
+            <enclosure url="http://localhost:4000/episodes/episode1-KamuUnga.mp3" length="5785317" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Kamuela Unga - Ohana Car Detailing</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>The Pacific Current</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:02:25</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:30.000" title="Outro." />
+              
+            </psc:chapters>
+            
+            
+            
+          </item>
+        
+      
     
       
         

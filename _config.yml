@@ -19,7 +19,9 @@ episodes_per_feed_page: 100
 date_format: "ordinal"
 
 # You can configure this #######################################################
-twitter_nick: pacificcurrent
+twitter_username: pacificcurrent
+instagram_username: thepacificcurrent
+facebook_username: thepacificcurrent 
 language: en
 explicit: 'no'  # 'yes'/'no'/clean
 license: CC BY 4.0
