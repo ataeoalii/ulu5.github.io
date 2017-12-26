@@ -17,17 +17,13 @@
     
 
     
-    <description>A podcast featuring interviews with the future and current leaders of Hawaii
-and how they are shaping the future we will soon call home. A mix of the creative,
-cultural, and business-minded people of the islands. For the people, by the people.
+    <description>A podcast featuring interviews with the future and current leaders of Hawaii and how they are shaping the future we will soon call home. A mix of the creative, cultural, and business-minded people of the islands. For the people, by the people.
 </description>
-    <lastBuildDate>Tue, 26 Dec 2017 00:10:53 -1000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2017 00:38:14 -1000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.3</generator>
 
-    <itunes:summary>A podcast featuring interviews with the future and current leaders of Hawaii
-and how they are shaping the future we will soon call home. A mix of the creative,
-cultural, and business-minded people of the islands. For the people, by the people.
+    <itunes:summary>A podcast featuring interviews with the future and current leaders of Hawaii and how they are shaping the future we will soon call home. A mix of the creative, cultural, and business-minded people of the islands. For the people, by the people.
 </itunes:summary>
     <itunes:author>The Pacific Current</itunes:author>
     <itunes:explicit>no</itunes:explicit>
@@ -81,9 +77,9 @@ cultural, and business-minded people of the islands. For the people, by the peop
 ]]></content:encoded>
             
             <enclosure url="http://localhost:4000/episodes/episode1-KamuUnga.mp3" length="5785317" type="audio/mpeg" />
-            <itunes:keywords></itunes:keywords>
+            <itunes:keywords>HawaiiBusinessEntrepreneurFamily Owned</itunes:keywords>
             <itunes:subtitle>Kamuela Unga - Ohana Car Detailing</itunes:subtitle>
-            <itunes:summary></itunes:summary>
+            <itunes:summary>Kamuela Unga, owner and operator of Ohana Car Detailing talks about what it's like to start his own family business. From inception to operation, how he was able to startup a small side business to help his children learn the value of work.</itunes:summary>
             <itunes:author>The Pacific Current</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>0:02:25</itunes:duration>
@@ -92,8 +88,6 @@ cultural, and business-minded people of the islands. For the people, by the peop
             <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
               
               <psc:chapter start="00:00:00.000" title="Intro." />
-              
-              <psc:chapter start="00:00:30.000" title="Outro." />
               
             </psc:chapters>
             
