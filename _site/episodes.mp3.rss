@@ -9,10 +9,10 @@
 
   <channel>
     <title>The Pacific Current</title>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="http://localhost:4000/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="http://localhost:4000/episodes.mp3.rss" rel="last" type="application/rss+xml" />
+    <link>http://thepacificcurrent.com</link>
+    <atom:link href="http://thepacificcurrent.com/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="http://thepacificcurrent.com/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="http://thepacificcurrent.com/episodes.mp3.rss" rel="last" type="application/rss+xml" />
     
     
 
@@ -27,7 +27,7 @@
 </itunes:summary>
     <itunes:author>The Pacific Current</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://localhost:4000/img/logo-itunes.jpg" />
+    <itunes:image href="http://thepacificcurrent.com/img/logo-itunes.jpg" />
     <itunes:owner>
       <itunes:name>The Pacific Current</itunes:name>
       <itunes:email>info@thepacificcurrent.com</itunes:email>
@@ -38,8 +38,8 @@
     <itunes:keywords>Hawaii, Business, Entrepreneurship, Island, Local, Culture, Polynesia, Pacific, Current</itunes:keywords>
     <image>
       <title>The Pacific Current</title>
-      <url>http://localhost:4000/img/logo-itunes.jpg</url>
-      <link>http://localhost:4000</link>
+      <url>http://thepacificcurrent.com/img/logo-itunes.jpg</url>
+      <link>http://thepacificcurrent.com</link>
     </image>
     
     <itunes:category text="Business" />
@@ -51,12 +51,12 @@
         
           <item>
             <title>The Art of the Side Hustle - Kamuela Unga - Ohana Car Detailing</title>
-            <link>http://localhost:4000/the-art-of-the-side-hustle/</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/the-art-of-the-side-hustle"/>
-            <comments>http://localhost:4000/the-art-of-the-side-hustle/#disqus_thread</comments>
+            <link>http://thepacificcurrent.com/the-art-of-the-side-hustle/</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://thepacificcurrent.com/players/the-art-of-the-side-hustle"/>
+            <comments>http://thepacificcurrent.com/the-art-of-the-side-hustle/#disqus_thread</comments>
             <pubDate>Mon, 25 Dec 2017 00:00:00 -1000</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/the-art-of-the-side-hustle/</guid>
+            <guid isPermaLink="false">http://thepacificcurrent.com/the-art-of-the-side-hustle/</guid>
             <description><![CDATA[
 
 <h2 id="shownotes-and-links">Shownotes and Links</h2>
@@ -76,7 +76,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="http://localhost:4000/episodes/episode1-KamuUnga.mp3" length="5785317" type="audio/mpeg" />
+            <enclosure url="http://thepacificcurrent.com/episodes/episode1-KamuUnga.mp3" length="5785317" type="audio/mpeg" />
             <itunes:keywords>HawaiiBusinessEntrepreneurFamily Owned</itunes:keywords>
             <itunes:subtitle>Kamuela Unga - Ohana Car Detailing</itunes:subtitle>
             <itunes:summary>Kamuela Unga, owner and operator of Ohana Car Detailing talks about what it's like to start his own family business. From inception to operation, how he was able to startup a small side business to help his children learn the value of work.</itunes:summary>
@@ -102,12 +102,12 @@
         
           <item>
             <title>Episode 0 - Testing out the podcast</title>
-            <link>http://localhost:4000/episode0/</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/episode0"/>
-            <comments>http://localhost:4000/episode0/#disqus_thread</comments>
+            <link>http://thepacificcurrent.com/episode0/</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://thepacificcurrent.com/players/episode0"/>
+            <comments>http://thepacificcurrent.com/episode0/#disqus_thread</comments>
             <pubDate>Tue, 22 Mar 2016 00:00:00 -1000</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/episode0/</guid>
+            <guid isPermaLink="false">http://thepacificcurrent.com/episode0/</guid>
             <description><![CDATA[
 
 <h2 id="show-notes-and-links">Show Notes and Links</h2>
@@ -125,7 +125,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="http://localhost:4000/episodes/episode0.mp3" length="45750" type="audio/mpeg" />
+            <enclosure url="http://thepacificcurrent.com/episodes/episode0.mp3" length="45750" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Testing out the podcast</itunes:subtitle>
             <itunes:summary></itunes:summary>
