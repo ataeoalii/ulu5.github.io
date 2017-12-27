@@ -1,82 +1,42 @@
-# You have to configure this ###################################################
-title: The Pacific Current
-# You should configure this ####################################################
-url: http://localhost:4000
-download_url: "http://localhost:4000/episodes"
-subtitle: Local Island People doing Island Kine Tings
-description: A podcast featuring interviews with the future and current leaders of Hawaii and how they are shaping the future we will soon call home. A mix of the creative, cultural, and business-minded people of the islands. For the people, by the people.
+# Site wide configuration
+
+title: "The Pacific Current"
+description: "Coming soon to a podcast near you"
+#if you modify locale please have a look at _data/messages.yml too
+locale: en
+#for meta name="author" :
 author: The Pacific Current
-author_url: "http://localhost:4000/" # This is the URL of a site owned by the author (s. https://jsonfeed.org/version/1)
-email: info@thepacificcurrent.com
-keywords: [Hawaii, Business, Entrepreneurship, Island, Local, Culture, Polynesia, Pacific, Current]
-itunes_categories: [Business]
 
-episodes_per_feed_page: 100
-# Date can be localized via date_de.rb plugin
-date_format: "ordinal"
+#Target date in UTC / GMT
+countdown:
+  theme: red
+  year: 2018
+  month: 3
+  day: 1
+  hour: 0
+  minute: 0
 
-# You can configure this #######################################################
-twitter_username: pacificcurrent
-instagram_username: thepacificcurrent
-facebook_username: thepacificcurrent 
-language: en
-explicit: 'no'  # 'yes'/'no'/clean
-license: CC BY 4.0
+# Site owner
+owner:
+  name: Andrew Taeoalii
+  email: info@thepacificcurrent.com
+  twitter: "@pacificcurrent"
+  google-plus:
+  instagram: "@thepacificcurrent"
+  #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
+  aboutlink:
+    url: https://thepacificcurrent.com
+    caption: The Pacific Current
 
-## Itunes link ###########################################################
-itunes_url: "https://itunes.apple.com/at/podcast/myname/id#myid#"
-## Isso comments #########################################################
-use_isso: no # set to 'yes' to include isso comments form
 
-plugins:
-  - jekyll-octopod 
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-
-#theme: Moon
-
-# Moon theme
-# Site
-bio:                'Minimal, one column jekyll theme.'
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+# Jekyll configuration
 sass:
-  sass_dir:         _sass
-  style:            compressed
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
 
 
-# Social
-# if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-#email:
-twitter:            pacificcurrent
-facebook:           thepacificcurrent
-instagram:          thepacificcurrent
-#youtube:           username
-
-
-
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
