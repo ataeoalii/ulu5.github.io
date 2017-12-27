@@ -19,7 +19,7 @@
     
     <description>A podcast featuring interviews with the future and current leaders of Hawaii and how they are shaping the future we will soon call home. A mix of the creative, cultural, and business-minded people of the islands. For the people, by the people.
 </description>
-    <lastBuildDate>Tue, 26 Dec 2017 00:38:14 -1000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2017 15:41:37 -1000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.3</generator>
 
@@ -51,12 +51,12 @@
         
           <item>
             <title>The Art of the Side Hustle - Kamuela Unga - Ohana Car Detailing</title>
-            <link>http://localhost:4000/2017/12/25/the-art-of-the-side-hustle.html</link>
+            <link>http://localhost:4000/the-art-of-the-side-hustle/</link>
             <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/the-art-of-the-side-hustle"/>
-            <comments>http://localhost:4000/2017/12/25/the-art-of-the-side-hustle.html#disqus_thread</comments>
+            <comments>http://localhost:4000/the-art-of-the-side-hustle/#disqus_thread</comments>
             <pubDate>Mon, 25 Dec 2017 00:00:00 -1000</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2017/12/25/the-art-of-the-side-hustle.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/the-art-of-the-side-hustle/</guid>
             <description><![CDATA[
 
 <h2 id="shownotes-and-links">Shownotes and Links</h2>
@@ -102,12 +102,12 @@
         
           <item>
             <title>Episode 0 - Testing out the podcast</title>
-            <link>http://localhost:4000/2016/03/22/episode0.html</link>
+            <link>http://localhost:4000/episode0/</link>
             <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/episode0"/>
-            <comments>http://localhost:4000/2016/03/22/episode0.html#disqus_thread</comments>
+            <comments>http://localhost:4000/episode0/#disqus_thread</comments>
             <pubDate>Tue, 22 Mar 2016 00:00:00 -1000</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2016/03/22/episode0.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/episode0/</guid>
             <description><![CDATA[
 
 <h2 id="show-notes-and-links">Show Notes and Links</h2>

@@ -22,22 +22,61 @@ facebook_username: thepacificcurrent
 language: en
 explicit: 'no'  # 'yes'/'no'/clean
 license: CC BY 4.0
-## Flattr ######################################################################
-flattr_uid: # Flattr will not be used unless this is set
-flattr_button: compact # compact | default
-flattr_mode: auto # auto | manual(default)
-flattr_popout:  1 # 1 | 0 (show popout when hovering mouse over button)
-flattr_language: en_GB # available languages - https://api.flattr.com/rest/v2/languages.txt
-flattr_category: audio # available categories - https://api.flattr.com/rest/v2/categories.txt
-## Disqus comments #############################################################
-disqus_shortname: # Disqus will not be used unless this is set
-disqus_developer: 0 # 1 / 0
+
 ## Itunes link ###########################################################
 itunes_url: "https://itunes.apple.com/at/podcast/myname/id#myid#"
 ## Isso comments #########################################################
 use_isso: no # set to 'yes' to include isso comments form
 
 plugins:
-  - jekyll-octopod
+  - jekyll-octopod 
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
 
-theme: jekyll-bootflat 
+#theme: Moon
+
+# Moon theme
+# Site
+bio:                'Minimal, one column jekyll theme.'
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/logo.png'
+background:         'assets/img/placeholder-big.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+
+# Social
+# if you don't have any of social below, comment the line.
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+#email:
+twitter:            pacificcurrent
+facebook:           thepacificcurrent
+instagram:          thepacificcurrent
+#youtube:           username
+
+
+
