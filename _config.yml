@@ -62,7 +62,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-
 # Social
 # if you don't have any of social below, comment the line.
 #google:
@@ -77,6 +76,3 @@ twitter:            pacificcurrent
 facebook:           thepacificcurrent
 instagram:          thepacificcurrent
 #youtube:           username
-
-
-
