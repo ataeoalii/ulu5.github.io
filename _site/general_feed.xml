@@ -4,7 +4,7 @@
   <title>The Pacific Current</title>
   <link href="http://localhost:4000/general_feed.xml" rel="self"/>
   <link href="http://localhost:4000"/>
-  <updated>2017-12-26T17:30:46-10:00</updated>
+  <updated>2017-12-26T17:32:47-10:00</updated>
   <id>http://localhost:4000/</id>
   <author>
     <name>The Pacific Current</name>
@@ -18,7 +18,7 @@
       <updated>2017-12-25T00:00:00-10:00</updated>
       <id>http://localhost:4000/the-art-of-the-side-hustle</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://localhost:4000/episodes/episode1-KamuUnga.mp3&quot;},&quot;coverUrl&quot;:&quot;http://localhost:4000/img/episodes/episode1-kamu-unga.jpg&quot;,&quot;title&quot;:&quot;The Art of the Side Hustle&quot;,&quot;subtitle&quot;:&quot;Kamuela Unga - Ohana Car Detailing&quot;,&quot;url&quot;:&quot;http://localhost:4000/the-art-of-the-side-hustle/&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://thepacificcurrent.com/episodes/episode1-KamuUnga.mp3&quot;},&quot;coverUrl&quot;:&quot;http://localhost:4000/img/episodes/episode1-kamu-unga.jpg&quot;,&quot;title&quot;:&quot;The Art of the Side Hustle&quot;,&quot;subtitle&quot;:&quot;Kamuela Unga - Ohana Car Detailing&quot;,&quot;url&quot;:&quot;http://localhost:4000/the-art-of-the-side-hustle/&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -43,7 +43,7 @@
       <updated>2016-03-22T00:00:00-10:00</updated>
       <id>http://localhost:4000/episode0</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://localhost:4000/episodes/episode0.mp3&quot;},&quot;coverUrl&quot;:&quot;http://localhost:4000/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Testing out the podcast&quot;,&quot;url&quot;:&quot;http://localhost:4000/episode0/&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://thepacificcurrent.com/episodes/episode0.mp3&quot;},&quot;coverUrl&quot;:&quot;http://localhost:4000/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Testing out the podcast&quot;,&quot;url&quot;:&quot;http://localhost:4000/episode0/&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;

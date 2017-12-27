@@ -19,7 +19,7 @@
     
     <description>A podcast featuring interviews with the future and current leaders of Hawaii and how they are shaping the future we will soon call home. A mix of the creative, cultural, and business-minded people of the islands. For the people, by the people.
 </description>
-    <lastBuildDate>Tue, 26 Dec 2017 17:30:46 -1000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2017 17:32:47 -1000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.3</generator>
 
@@ -76,7 +76,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="http://localhost:4000/episodes/episode1-KamuUnga.mp3" length="5785317" type="audio/mpeg" />
+            <enclosure url="http://thepacificcurrent.com/episodes/episode1-KamuUnga.mp3" length="5785317" type="audio/mpeg" />
             <itunes:keywords>HawaiiBusinessEntrepreneurFamily Owned</itunes:keywords>
             <itunes:subtitle>Kamuela Unga - Ohana Car Detailing</itunes:subtitle>
             <itunes:summary>Kamuela Unga, owner and operator of Ohana Car Detailing talks about what it's like to start his own family business. From inception to operation, how he was able to startup a small side business to help his children learn the value of work.</itunes:summary>
@@ -125,7 +125,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="http://localhost:4000/episodes/episode0.mp3" length="45750" type="audio/mpeg" />
+            <enclosure url="http://thepacificcurrent.com/episodes/episode0.mp3" length="45750" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Testing out the podcast</itunes:subtitle>
             <itunes:summary></itunes:summary>
