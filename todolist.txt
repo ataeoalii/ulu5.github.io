@@ -1,0 +1,18 @@
+- cleanup theme to make it look prettier
+- incorporate logo
+- create a slogan and description of the podcast
+- create bios for everyone
+- move mp3s to better storage (Dropbox, google drive, etc.)
+
+How to create an episode
+1) copy the recording to episodes folder
+2) Run "octopod episode --title <title> --subtitle <subtitle>"
+  a) add cover photo
+  b) add summary
+  c) add shownotes/links
+  d) add chapter marks 
+3) Run "octopod serve" to verify everything
+
+DONE
+- add instagram/facebook/twitter links
+- create contact us page which sends an email to info@thepacificcurrent.com
