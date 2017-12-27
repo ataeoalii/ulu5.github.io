@@ -1,0 +1,36 @@
+---
+layout: page
+---
+<section class="active">
+  {% if page.title %}
+  <div class="page-header">
+    <h1>
+      {{ page.title }}
+      {% if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}
+    </h1>
+  </div>
+  {% endif %}
+
+  {{ content }}
+
+  <form action="http://formspree.io/{{ site.email }}" method="post">
+    <fieldset>
+      <legend>Name *</legend>
+      <input type="text" name="_name" required />
+    </fieldset>
+    <fieldset>
+      <legend>Email *</legend>
+      <input type="email" name="_replyto" required />
+    </fieldset>
+    <fieldset>
+      <legend>Phone Number</legend>
+      <input type="tel" name="_phone_number" />
+    </fieldset>
+    <fieldset>
+      <legend>Message *</legend>
+      <textarea name="body" rows="8" cols="100" required></textarea>
+    </fieldset>
+    <input type="hidden" name="subject" value="Join Our Show" id="form_user_subject">
+    <input type="submit" value="Send"><br />
+  </form>
+</section>
