@@ -43,7 +43,7 @@ bio:                'A podcast for the modern-day Pacific Islander'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/tunnels_blur.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 

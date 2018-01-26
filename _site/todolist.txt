@@ -2,6 +2,8 @@
 - incorporate logo
 - create a slogan and description of the podcast
 - create bios for everyone
+- move mp3s to better storage (Dropbox, google drive, etc.)
+
 
 How to create an episode
 1) copy the recording to episodes folder
