@@ -71,7 +71,7 @@ header p {
 }
 
 .color {
-    background-color: #f64747
+    background-color: #444444
 }
 
 .ss-style-doublediagonal {
@@ -179,9 +179,9 @@ section.footer p a {
     z-index: 1;
     margin-top: 10%;
     padding-top: 5px;
-    background: #f64747;
+    background: #444444;
     color: white;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 
 .footer::before,
@@ -191,7 +191,7 @@ section.footer p a {
     z-index: -1;
     width: 125%;
     height: 105%;
-    background: #f64747;
+    background: #444444;
     -webkit-transform: rotate(-2deg);
     -ms-transform: rotate(-2deg);
     transform: rotate(-2deg);
@@ -202,7 +202,7 @@ section.footer p a {
 
 .footer::before {
     height: 50%;
-    background: #f64747;
+    background: #444444;
     -webkit-transform: rotate(-2deg);
     -ms-transform: rotate(-2deg);
     transform: rotate(-2deg);
