@@ -57,13 +57,6 @@
             <div class="row">
                 <div class="col-sm-12">
                     <h3>{{ site.data.messages.locales[site.locale].Learn_More }}</h3>
-                    <!-- not supported in Jekyll:
-                    <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Email">
-                        <span class="input-group-btn">
-                            <button class="btn btn-danger" type="button"><i class="fa fa-check"></i></button>
-                        </span>
-                    </div> -->
                     <br> 
                     <ul class="list-unstyled list-inline">
                         {% if site.owner.email %}<li>
@@ -92,11 +85,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 text-center">
-                    <p>2017 - {{ site.owner.name }}</p>
-
-                    <P> {% if site.owner.aboutlink.url %}<a href="{{ site.owner.aboutlink.url }}">{{ site.owner.aboutlink.caption | default: "About" }}</a> | {% endif %}
-                        Page and Design by <a target="_blank" href="http://mortezaaghili.github.io/">M. Aghili</a> + 
-                        <a target="_blank" href="https://www.behance.net/gallery/18421675/Free-Bootstrap-Psd-Coming-Soon-Template">Ilya B.</a>
+                    <p>2018 | {{ site.owner.name }} | {% if site.owner.aboutlink.url %}<a href="{{ site.owner.aboutlink.url }}">{{ site.owner.aboutlink.caption | default: "About" }}</a>{% endif %}
                     </P>
                 </div>
             </div>

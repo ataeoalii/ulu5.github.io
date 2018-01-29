@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: "The Pacific Current"
-excerpt: "A Podcast dedicated to the continuous flow between the pacific islands"
+excerpt: "connect. inspire. flow."
 ---
-# Website is coming soon
-This site is not active yet. The first episode of The Pacific Current podcast will be released on March 1, 2018.
+# Website coming soon
+This site is not active yet. The first episode of The Pacific Current podcast will be released on March 1, 2018. Email us at [info@thepacificcurrent.com](mailto:info@thepacificcurrent.com) for more information.
